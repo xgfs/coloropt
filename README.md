@@ -23,4 +23,4 @@ where ``WEIGHT_VECTOR`` is a parameters for the objective function and ``INITIAL
     
 ### License
 
-You are free to use the pallettes and the code without attribution in commercial projects. I would love if you drop an email if you find them useful.
+You are free to use the pallettes and the code without attribution in commercial projects (specifically, assume [public domain](https://creativecommons.org/share-your-work/public-domain/cc0/) license on the colors). I would love if you drop an email if you find them useful.
